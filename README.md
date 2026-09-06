@@ -1,6 +1,21 @@
-# applied-ai-ml-statistical-forecasting
 
-AI/ML, statistics, time-series forecasting, and energy-market prediction.
+<p align="center">
+    <img 
+    id="AI_And_ML_Statistics_Time_Series_Forecasting_Caption?trk=public_profile_see-credential" src="AI_And_ML_Statistics_Time_Series_Forecasting_Caption.png" 
+    style="width:1200px;height:200px;">
+</p>
+
+<p align="center">
+   <img
+   id="Applied_Ai_Ml_Statistical_Forecasting_Graphics?trk=public_profile_see-credential"  
+   src="Applied_Ai_Ml_Statistical_Forecasting_Graphics.png" 
+   alt="Applied ai ml statistical forecasting graphics!" width="500" height="320"/>
+</p>
+
+- For these courses one should configure **GIT** for handle projects.
+    - `git config --global http.postBuffer 524288000`.
+    - `git config --global core.longpaths true`.
+
 
 <!-- 
 
@@ -104,15 +119,14 @@ alt="Reactive course series!"
     </p>
 </p>
 
-# Mastering_Java_Reactive_Programming_From Scratch_Caption.
-<!-- 
+
 <p align="center">
     <img 
-    src="Mastering_Java_Reactive_Programming_From Scratch_Caption.png" 
-    alt="Mastering java reactive programming from scratch caption!" 
-    id="Mastering_Java_Reactive_Programming_From Scratch_Caption?trk=public_profile_see-credential"
-    style="width:1600px;height:90px;" />
-</p> -->
+    src="The_Numpy_Stack_In_Python_V2_Caption.png" 
+    alt="The numpy stack in python v2 caption!" 
+    id="The_Numpy_Stack_In_Python_V2_Caption?trk=public_profile_see-credential"
+    style="width:1600px;height:130px;" />
+</p> 
 
 <p align="center">
     <img  src="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python_V2_Description.JPG" 
@@ -186,5 +200,68 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Quiz 01](#) - What will you learn in this course?
         * [Quiz 02](#) - What level of machine learning is taught in this course?
         * [Quiz 03](#) - How will you practice what you learned in this course?
+
+<hr>
+
+# Time Series Analysis and Forecasting using Python.
+
+<!-- <p align="center">
+    <img 
+    src="The_Numpy_Stack_In_Python_V2_Caption.png" 
+    alt="The numpy stack in python v2 caption!" 
+    id="The_Numpy_Stack_In_Python_V2_Caption?trk=public_profile_see-credential"
+    style="width:1600px;height:130px;" />
+</p>  -->
+
+<p align="center">
+    <img  src="Time_Series_Analysis_And_Forecasting_Using_Python_Description.JPG" 
+    alt="Deep learning prerequisites the numpy stack in python v2 description!" 
+    id="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python_V2_Description?trk=public_profile_see-credential"
+    style="width: 680px;"/>
+</p>
+
+All course material from *Time Series Analysis and Forecasting using Python* from **Start-Tech Academy**, **Abhishek Bansal** and **Pukhraj Parikh**.
+
+> add here. 🐟 <br><br> ~ *DevelopersCradle*
+
+Contains my own visual notes ✍️ with some course material to enforce learning experience.
+
+This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+
+<!-- Todo add here -->
+<!-- 
+[The course at Udemy](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/). 
+
+[Website of maker](https://lazyprogrammer.me/). -->
+
+If the content sparked 🔥 your interest, please consider buying the course and start learning 📖.
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<div align="center">
+    Insert certificate here when completed
+</div>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [ ] [Section 01](#) -
+
+#### Additional stuff.
+
+- [ ] Add here!
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Quiz 01](#) - What will you learn in this course?
+
+
 
 
