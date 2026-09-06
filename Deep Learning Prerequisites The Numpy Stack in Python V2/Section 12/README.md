@@ -1,6 +1,7 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 12: Extra Help With Python Coding for Beginners (FAQ by Student Request).
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+Extra Help With Python Coding for Beginners (FAQ by Student Request).
 
 # What I Learned.
+
 

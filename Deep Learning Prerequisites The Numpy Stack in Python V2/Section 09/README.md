@@ -1,6 +1,6 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 09: Quizzes.
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+ Quizzes.
 
 # What I Learned.
 

@@ -1,6 +1,7 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 07: Beginner Troubleshooting.
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+ Beginner Troubleshooting.
 
 # What I Learned.
+
 

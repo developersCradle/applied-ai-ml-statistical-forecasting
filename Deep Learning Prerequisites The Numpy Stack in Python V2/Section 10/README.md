@@ -1,6 +1,7 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 10: Appendix / FAQ Intro.
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+Appendix / FAQ Intro.
 
 # What I Learned.
+
 

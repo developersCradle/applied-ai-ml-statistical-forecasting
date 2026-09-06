@@ -1,6 +1,8 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 02: Numpy (New).
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+Numpy (New).
 
 # What I Learned.
+
+
 

@@ -1,6 +1,8 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 11: Setting Up Your Environment (FAQ by Student Request).
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+Setting Up Your Environment (FAQ by Student Request).
 
 # What I Learned.
+
+
 

@@ -1,6 +1,6 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 01: Welcome and Logistics.
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+ Welcome and Logistics.
 
 # What I Learned.
 
@@ -67,8 +67,68 @@ Section 06: Splitter Pattern: Routing Messages to Multiple Services.
 
 # Quiz 01: What will you learn in this course?
 
+<details>
+
+<summary id="Question_01" open="true"> <b>Question 01.</b> </summary>
+
+````Yaml
+Question 01:
+What will you learn in this course?
+````
+- My answer:
+
+<div align="center">
+    <img src="Quiz 01/01.JPG" width="600"/>
+</div>
+
+1. This will be for the **fundamentals**!
+
+</details>
+
 # Quiz 02: What level of machine learning is taught in this course?
+
+<details>
+
+<summary id="Question_02" open="true"> <b>Question 02.</b> </summary>
+
+````Yaml
+Question 01:
+What level of machine learning is taught in this course?
+````
+- My answer:
+
+<div align="center">
+    <img src="Quiz 02/Q1.JPG" width="600"/>
+</div>
+
+1. There is no **ML** in this course!
+
+</details>
 
 # Quiz 03: How will you practice what you learned in this course?
 
+<details>
+
+<summary id="Question_03" open="true"> <b>Question 03.</b> </summary>
+
+````Yaml
+Question 01:
+How will you practice what you learned in this course?
+````
+- My answer:
+
+<div align="center">
+    <img src="Quiz 03/Q1.JPG" width="600"/>
+</div>
+
+1. One should be implementing the own **ML** algorithm!
+
+</details>
+
 # Extra Resources.
+
+- We will be going into the extra material!
+
+<div align="center">
+    <img src="Extra_Resources.JPG" width="600"/>
+</div>

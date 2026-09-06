@@ -1,6 +1,7 @@
-# Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+# Section 08: Machine Learning Basics.
 
-Section 06: Splitter Pattern: Routing Messages to Multiple Services.
+Machine Learning Basics.
 
 # What I Learned.
+
 

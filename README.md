@@ -175,8 +175,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 13](#) - Effective Learning Strategies for Machine Learning (FAQ by Student Request).
 - [ ] [Section 14](#) - Appendix / FAQ Finale.
 
-
-
 #### Additional stuff.
 
 - [ ] Add here!
