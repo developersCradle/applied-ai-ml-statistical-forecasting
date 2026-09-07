@@ -118,7 +118,9 @@ How will you practice what you learned in this course?
 - My answer:
 
 <div align="center">
-    <img src="Quiz 03/Q1.JPG" width="600"/>
+    <img 
+    src="Quiz 03/Q1.JPG"
+    width="600"/>
 </div>
 
 1. One should be implementing the own **ML** algorithm!
@@ -130,5 +132,31 @@ How will you practice what you learned in this course?
 - We will be going into the extra material!
 
 <div align="center">
-    <img src="Extra_Resources.JPG" width="600"/>
+    <img 
+    src="The_Numpy_Stack_In_Python" 
+    alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!"
+    width="600"/>
 </div>
+
+Deep Learning Prerequisites: The Numpy Stack in Python (V2+)
+<br>
+
+<div align="center">
+    <img 
+    src="LazyProgrammer_Links.JPG"
+    width="600"
+    alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!"/>
+</div>
+
+1. We can see the **more information** can be found from address `https://lazyprogrammer.me/numpy/`!
+    - We can set different information!
+
+<div align="center">
+    <img 
+    src="Anaconda_For_The_Datascience.JPG" 
+    width="600"
+    alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!"/>
+</div>
+
+1. We will use **Anaconda**!
+

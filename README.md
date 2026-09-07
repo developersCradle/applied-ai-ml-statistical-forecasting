@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+    <b>AI/ML</b>, <b>statistics</b>, <b>time-series forecasting</b>, and <b>energy-market prediction</b>.
+</p>
+
+<p align="center">
    <img
    id="Applied_Ai_Ml_Statistical_Forecasting_Graphics?trk=public_profile_see-credential"  
    src="Applied_Ai_Ml_Statistical_Forecasting_Graphics.png" 
@@ -15,7 +19,6 @@
 - For these courses one should configure **GIT** for handle projects.
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
-
 
 <!-- 
 
@@ -77,8 +80,7 @@ Template for the task/exercies:
 <summary 
 id="Reactive_Course_Series_Summary?trk=public_profile_see-credential"
 open="true"
-alt="Reactive course series!"
->
+alt="Reactive course series!">
 <b> Prerequisites for this course! </b> </summary>
 
 <br>
@@ -86,9 +88,12 @@ alt="Reactive course series!"
 <p align="center">
     <img 
     src="What_Is_Expected_You_To_Know.JPG"
-    id="What_Is_Expected?trk=public_profile_see-credential"
-    alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!" width="700"/>
+    id="What_Is_Expected_You_To_Know?trk=public_profile_see-credential"
+    alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!"
+    width="700"/>
 </p>
+
+1. Add here the description and links!
 
 <!-- 
 1. 🎓 Course in Udemy: **Complete Java Reactive Programming** 🎓: The [Course](https://www.udemy.com/course/complete-java-reactive-programming/)!
@@ -98,27 +103,6 @@ alt="Reactive course series!"
 -->
 
 </details>
-
-
-<p align="center">
-    <img
-    src="Reactive_Programming_Caption.png"
-    id="Reactive_Programming_Caption?trk=public_profile_see-credential"
-    alt="Reactive programming caption!"
-    style="width:1600px;height:130px;"/>
-</p> 
-
-<p align="center">
-    <img 
-    id="Reactive_Programming_Graphic?trk=public_profile_see-credential"
-    src="Reactive_Programming_Graphic.jpg"
-    alt="Reactive programming graphic!"
-    style="width:450px;height:350px;">
-    <p align="center">
-    Attempt to study <b>Reactive Programming</b> and related topics!
-    </p>
-</p>
-
 
 <p align="center">
     <img 
@@ -174,32 +158,32 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Welcome and Logistics.
-- [ ] [Section 02](#) - Numpy (New).
-- [ ] [Section 03](#) - Matplotlib (New).
-- [ ] [Section 04](#) - Pandas (New).
-- [ ] [Section 05](#) - Scipy (New).
-- [ ] [Section 06](#) - Bonus Exercises.
-- [ ] [Section 07](#) - Beginner Troubleshooting.
-- [ ] [Section 08](#) - Machine Learning Basics.
-- [ ] [Section 09](#) - Quizzes.
-- [ ] [Section 10](#) - Appendix / FAQ Intro.
-- [ ] [Section 11](#) - Setting Up Your Environment (FAQ by Student Request).
+- [ ] [Section 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#section-01-welcome-and-logistics) - Welcome and Logistics.
+- [ ] [Section 02](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2002#section-02-numpy-new) - Numpy (New).
+- [ ] [Section 03](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2003#section-03-matplotlib-new) - Matplotlib (New).
+- [ ] [Section 04](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2004#section-04-pandas-new) - Pandas (New).
+- [ ] [Section 05](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2005#section-05-scipy-new) - Scipy (New).
+- [ ] [Section 06](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/blob/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2006/README.md#section-06-bonus-exercises) - Bonus Exercises.
+- [ ] [Section 07](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2007#section-07-beginner-troubleshooting) - Beginner Troubleshooting.
+- [ ] [Section 08](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/blob/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2008/README.md#section-08-machine-learning-basics) - Machine Learning Basics.
+- [ ] [Section 09](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2009#section-09-quizzes) - Quizzes.
+- [ ] [Section 10](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2010#section-10-appendix--faq-intro) - Appendix / FAQ Intro.
+- [ ] [Section 11](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/blob/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2011/README.md#section-10-appendix--faq-intro) - Setting Up Your Environment (FAQ by Student Request).
 - [ ] [Section 12](#) - Extra Help With Python Coding for Beginners (FAQ by Student Request).
 - [ ] [Section 13](#) - Effective Learning Strategies for Machine Learning (FAQ by Student Request).
 - [ ] [Section 14](#) - Appendix / FAQ Finale.
 
 #### Additional stuff.
-
+- Add enter spacing!
 - [ ] Add here!
 
 #### The Quizzes and Labs.
 
 * **Section 01**:
     * *Quiz*:
-        * [Quiz 01](#) - What will you learn in this course?
-        * [Quiz 02](#) - What level of machine learning is taught in this course?
-        * [Quiz 03](#) - How will you practice what you learned in this course?
+        * [Quiz 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#quiz-01-what-will-you-learn-in-this-course) - What will you learn in this course?
+        * [Quiz 02](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#quiz-02-what-level-of-machine-learning-is-taught-in-this-course) - What level of machine learning is taught in this course?
+        * [Quiz 03](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#quiz-03-how-will-you-practice-what-you-learned-in-this-course) - How will you practice what you learned in this course?
 
 <hr>
 
