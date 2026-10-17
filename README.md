@@ -185,23 +185,23 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Quiz 02](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#quiz-02-what-level-of-machine-learning-is-taught-in-this-course) - What level of machine learning is taught in this course?
         * [Quiz 03](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Deep%20Learning%20Prerequisites%20The%20Numpy%20Stack%20in%20Python%20V2/Section%2001#quiz-03-how-will-you-practice-what-you-learned-in-this-course) - How will you practice what you learned in this course?
 
-<hr>
-
-# Time Series Analysis and Forecasting using Python.
-
-<!-- <p align="center">
+<p 
+align="center">
     <img 
-    src="The_Numpy_Stack_In_Python_V2_Caption.png" 
-    alt="The numpy stack in python v2 caption!" 
-    id="The_Numpy_Stack_In_Python_V2_Caption?trk=public_profile_see-credential"
-    style="width:1600px;height:130px;" />
-</p>  -->
+    src="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png" 
+    alt="Time series analysis and forecasting using python caption!" 
+    id="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png?trk=public_profile_see-credential"
+    style="width:1600px;height:130px;"
+    />
+</p> 
 
 <p align="center">
-    <img  src="Time_Series_Analysis_And_Forecasting_Using_Python_Description.JPG" 
-    alt="Deep learning prerequisites the numpy stack in python v2 description!" 
-    id="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python_V2_Description?trk=public_profile_see-credential"
-    style="width: 680px;"/>
+    <img  
+    src="Time_Series_Analysis_And_Forecasting_Using_Python_Description.JPG"
+    alt="Time series analysis and forecasting using python description!"
+    id="Time_Series_Analysis_And_Forecasting_Using_Python_Description?trk=public_profile_see-credential"
+    style="width: 680px;"
+    />
 </p>
 
 All course material from *Time Series Analysis and Forecasting using Python* from **Start-Tech Academy**, **Abhishek Bansal** and **Pukhraj Parikh**.
@@ -212,12 +212,9 @@ Contains my own visual notes ✍️ with some course material to enforce learnin
 
 This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
+[The course at Udemy](https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python). 
 
-<!-- Todo add here -->
-<!-- 
-[The course at Udemy](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/). 
-
-[Website of maker](https://lazyprogrammer.me/). -->
+[Website of maker](https://starttechacademy.com/).
 
 If the content sparked 🔥 your interest, please consider buying the course and start learning 📖.
 
@@ -226,25 +223,99 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 ?trk=public_profile_see-credential 
 -->
 
-<div align="center">
-    Insert certificate here when completed
-</div>
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="#" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Time_Series_Analysis_And_Forecasting_Using_Python_Certificate?trk=public_profile_see-credential" 
+    src="" 
+    alt="Time series analysis and forecasting using python certificate!"
+    width="600"
+    />
+</p>
+
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) -
+- [ ] [Section 01](#) - Introduction. ✅
+- [ ] [Section 02](#) - Time Series - Basics.
+- [ ] [Section 03](#) - Setting up Python and Python Crash Course.
+- [ ] [Section 04](#) - Time Series - Data Loading.
+- [ ] [Section 05](#) - Time Series - Feature Engineering.
+- [ ] [Section 06](#) - Time Series - Resampling.
+- [ ] [Section 07](#) - Time Series - Visualization.
+- [ ] [Section 08](#) - Time Series - Transformation.
+- [ ] [Section 09](#) - Time Series - Important Concepts.
+- [ ] [Section 10](#) - Time Series - Test Train Split.
+- [ ] [Section 11](#) - Time Series - Naive (Persistence) model.
+- [ ] [Section 12](#) - Time Series - Auto Regression Model.
+- [ ] [Section 13](#) - Time Series - Moving Average model.
+- [ ] [Section 14](#) - Time Series - ARIMA model.
+- [ ] [Section 15](#) - Time Series - SARIMA model.
+- [ ] [Section 16](#) - Stationary time Series
+- [ ] [Section 17](#) - Linear Regression - Data Preprocessing.
+- [ ] [Section 18](#) - Linear Regression - Model Creation.
+- [ ] [Section 19](#) - Introduction to ANN.
+- [ ] [Section 20](#) - Single Cells - Perceptron and Sigmoid Neuron.
+- [ ] [Section 21](#) - Neural Networks - Stacking cells to create network.
+- [ ] [Section 22](#) - Important concepts: Common Interview questions.
+- [ ] [Section 23](#) - Standard Model Parameters.
 
 #### Additional stuff.
 
-- [ ] Add here!
+- [ ] Do the [Kaggle](https://www.kaggle.com/learn/time-series)!
+- At end of the course check if the `Data + Code` is needed!
 
-#### The Quizzes and Labs.
+- Check [Forecasting: Principles and Practice](https://otexts.com/fpp3/)!
 
-* **Section 01**:
+#### The Quizzes and Coding Exercise.
+
+* **Section 01** - Introduction.
     * *Quiz*:
-        * [Quiz 01](#) - What will you learn in this course?
+        * [Quiz 01](#). ✅
+* **Section 02** - Time Series - Basics.
+    * *Quiz*:
+        * [Quiz 02](#).
+* **Section 03** - Setting up Python and Python Crash Course.
+    * *Quiz*:
+        * [Quiz 03](#).
+    * *Coding Exercise*:
+        * [Coding Exercise xx: add here](#).
+        * [Coding Exercise xx: add here](#).
+        * [Coding Exercise xx: add here](#).
+        * [Coding Exercise xx: add here](#).
+        * [Coding Exercise xx: add here](#).
+* **Section 05** - Time Series - Feature Engineering.
+    * *Quiz*:
+        * [Quiz 04](#).
+* **Section 06** - Time Series - Resampling.
+    * *Quiz*:
+        * [Quiz 05](#).
+* **Section 17** - Linear Regression - Data Preprocessing.
+    * *Quiz*:
+        * [Quiz 06](#).
+* **Section 20** - Single Cells - Perceptron and Sigmoid Neuron.
+    * *Quiz*:
+        * [Quiz 07](#).
+* **Section 21** - Neural Networks - Stacking cells to create network.
+    * *Quiz*:
+        * [Quiz 08](#).
+* **Section 23** - Standard Model Parameters.
+    * *Quiz*:
+        * [Quiz 09](#).
+
+
+        
+
+
+
 
 
 
