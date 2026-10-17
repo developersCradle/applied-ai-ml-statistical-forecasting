@@ -1,8 +1,9 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 13: Time Series - Moving Average model.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Moving Average model.
 
 # What I Learned.
 
+# Moving Average model - Basics.
 
-- [ ] [Section 13](#) - Time Series - Moving Average model.
+# Moving Average model in Python.

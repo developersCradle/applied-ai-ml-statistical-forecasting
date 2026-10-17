@@ -1,8 +1,6 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 08: Time Series - Transformation.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Transformation.
 
 # What I Learned.
 
-
-- [ ] [Section 08](#) - Time Series - Transformation.

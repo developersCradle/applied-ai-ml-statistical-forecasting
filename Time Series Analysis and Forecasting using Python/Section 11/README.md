@@ -1,8 +1,7 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 11: Time Series - Naive (Persistence) model.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Naive (Persistence) model.
 
 # What I Learned.
 
-
-- [ ] [Section 11](#) - Time Series - Naive (Persistence) model.
+#  Naive (Persistence) model in Python.

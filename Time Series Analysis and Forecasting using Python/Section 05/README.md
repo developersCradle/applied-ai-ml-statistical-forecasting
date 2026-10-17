@@ -1,13 +1,12 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 05: Time Series - Feature Engineering.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Feature Engineering.
 
 # What I Learned.
 
+# Time Series - Feature Engineering Basics.
 
-- [ ] [Section 05](#) - Time Series - Feature Engineering.
-
-
+# Time Series - Feature Engineering in Python.
 
 # Quiz 04: Quiz.
 

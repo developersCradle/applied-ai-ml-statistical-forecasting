@@ -1,11 +1,8 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 06: Time Series - Resampling.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Resampling.
 
 # What I Learned.
-- [ ] [Section 06](#) - Time Series - Resampling.
-
-
 
 # Quiz 05: Quiz.
 

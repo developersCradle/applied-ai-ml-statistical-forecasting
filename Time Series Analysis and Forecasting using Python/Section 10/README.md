@@ -1,8 +1,7 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 10: Time Series - Test Train Split.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Test Train Split.
 
 # What I Learned.
 
-
-- [ ] [Section 10](#) - Time Series - Test Train Split.
+# Test Train Split in Python.

@@ -1,9 +1,9 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 15: Time Series - SARIMA model.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - SARIMA model.
 
 # What I Learned.
 
+# SARIMA model.
 
-- [ ] [Section 15](#) - Time Series - SARIMA model.
-
+# SARIMA model in Python.

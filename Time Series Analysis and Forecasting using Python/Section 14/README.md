@@ -1,8 +1,13 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 14: Time Series - ARIMA model.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - ARIMA model.
 
 # What I Learned.
 
+# ACF and PACF.
 
-- [ ] [Section 14](#) - Time Series - ARIMA model.
+# ARIMA model - Basics.
+
+# ARIMA model in Python.
+
+# ARIMA model with Walk Forward Validation in Python.

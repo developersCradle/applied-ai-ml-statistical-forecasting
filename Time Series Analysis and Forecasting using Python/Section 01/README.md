@@ -10,7 +10,6 @@ Introduction.
 
 # What is Time Series Forecasting? ✅
 
-
 > [!NOTE]
 > 📝 **Cross-sectional data** is data collected from multiple individuals, objects, groups, or entities at a **single point in time** or over a short period of time. 📝
 
@@ -59,7 +58,7 @@ align="center">
 
 - Cool information here.
 
-# Quiz 01: Quiz.
+# Quiz 01: Quiz. ✅
 
 <details>
 

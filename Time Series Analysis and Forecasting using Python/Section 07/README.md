@@ -1,8 +1,9 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 07: Time Series - Visualization.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Visualization.
 
 # What I Learned.
 
+# Time Series - Visualization Basics.
 
-- [ ] [Section 07](#) - Time Series - Visualization.
+# Time Series - Visualization in Python.

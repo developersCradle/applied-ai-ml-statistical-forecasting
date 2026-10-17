@@ -174,8 +174,8 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 14](#) - Appendix / FAQ Finale.
 
 #### Additional stuff.
+
 - Add enter spacing!
-- [ ] Add here!
 
 #### The Quizzes and Labs.
 
@@ -244,8 +244,8 @@ align="center">
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Introduction. ✅
-- [ ] [Section 02](#) - Time Series - Basics.
+- [x] [Section 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2001#section-01-introduction-) - Introduction. ✅
+- [ ] [Section 02](#) - Time Series - Basics. ⚠️ In progress! ⚠️
 - [ ] [Section 03](#) - Setting up Python and Python Crash Course.
 - [ ] [Section 04](#) - Time Series - Data Loading.
 - [ ] [Section 05](#) - Time Series - Feature Engineering.
@@ -259,7 +259,7 @@ align="center">
 - [ ] [Section 13](#) - Time Series - Moving Average model.
 - [ ] [Section 14](#) - Time Series - ARIMA model.
 - [ ] [Section 15](#) - Time Series - SARIMA model.
-- [ ] [Section 16](#) - Stationary time Series
+- [ ] [Section 16](#) - Stationary time Series.
 - [ ] [Section 17](#) - Linear Regression - Data Preprocessing.
 - [ ] [Section 18](#) - Linear Regression - Model Creation.
 - [ ] [Section 19](#) - Introduction to ANN.
@@ -312,11 +312,79 @@ align="center">
         * [Quiz 09](#).
 
 
-        
 
+# Mathematical Foundations of Machine Learning.
+<!-- 
+<p 
+align="center">
+    <img 
+    src="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png" 
+    alt="Time series analysis and forecasting using python caption!" 
+    id="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png?trk=public_profile_see-credential"
+    style="width:1600px;height:130px;"
+    />
+</p>  -->
 
+<p align="center">
+    <img  
+    src="Mathematical_Foundations_Of_Machine_Learning_Description.JPG"
+    alt="#"
+    id="#"
+    style="width: 680px;"
+    />
+</p>
 
+All course material from *Mathematical Foundations of Machine Learning* from **xxx**.
 
+> add here. 🐟 <br><br> ~ *DevelopersCradle*
 
+Contains my own visual notes ✍️ with some course material to enforce learning experience.
+
+This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+[The course at Udemy](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/). 
+
+[Website of maker](#).
+
+If the content sparked 🔥 your interest, please consider buying the course and start learning 📖.
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<!-- <p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="#" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Time_Series_Analysis_And_Forecasting_Using_Python_Certificate?trk=public_profile_see-credential" 
+    src="" 
+    alt="Time series analysis and forecasting using python certificate!"
+    width="600"
+    />
+</p> -->
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [ ] [Section 01](#) - xxxxx.
+
+#### Additional stuff.
+
+- Todo
+
+#### The Quizzes and Coding Exercise.
+
+* **Section 01** - xxx
+    * *Quiz*:
+        * [Quiz 03](#).
+    * *Coding Exercise*:
+        * [Coding Exercise xx: add here](#).
 
 

@@ -1,8 +1,11 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 12: Time Series - Auto Regression Model.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Auto Regression Model.
 
 # What I Learned.
 
+# Auto Regression Model - Basics.
 
-- [ ] [Section 12](#) - Time Series - Auto Regression Model.
+# Auto Regression Model creation in Python.
+
+# Auto Regression with Walk Forward validation in Python.

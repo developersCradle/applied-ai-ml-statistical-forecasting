@@ -1,8 +1,7 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 04: Time Series - Data Loading.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Data Loading.
 
 # What I Learned.
 
-
-- [ ] [Section 04](#) - Time Series - Data Loading.
+# Data Loading in Python.

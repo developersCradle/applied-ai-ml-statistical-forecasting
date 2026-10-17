@@ -1,8 +1,6 @@
-# Section 13: Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+# Section 09: Time Series - Important Concepts.
 
-Effective Learning Strategies for Machine Learning (FAQ by Student Request).
+Time Series - Important Concepts.
 
 # What I Learned.
 
-
-- [ ] [Section 09](#) - Time Series - Important Concepts.
