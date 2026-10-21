@@ -1,4 +1,3 @@
-
 <p align="center">
     <img 
     id="AI_And_ML_Statistics_Time_Series_Forecasting_Caption?trk=public_profile_see-credential" src="AI_And_ML_Statistics_Time_Series_Forecasting_Caption.png" 
@@ -21,7 +20,6 @@
     - `git config --global core.longpaths true`.
 
 <!-- 
-
 We are using following structure:
 
 <p align="center">
@@ -29,15 +27,16 @@ We are using following structure:
     id="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption?trk=public_profile_see-credential" 
     src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption.png"
     alt="Jackson quick start json serialization with java made easy caption!"
-    style="width:1600px;height:120px;"/>
+    style="width:1600px;height:120px;"
+    />
 </p> 
 <p align="center">
     <img
     id="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description?trk=public_profile_see-credential" src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description.png"
     alt="Jackson quick start json serialization with java made easy description!"
-    style="width:590px; height:160px;" />
+    style="width:590px; height:160px;"
+    />
 </p>
-
 -->
 
 
@@ -245,7 +244,7 @@ align="center">
 #### Progress/Curriculum.
 
 - [x] [Section 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2001#section-01-introduction-) - Introduction. ✅
-- [ ] [Section 02](#) - Time Series - Basics. ⚠️ In progress! ⚠️
+- [ ] [Section 02](#) - Time Series - Basics. ✅
 - [ ] [Section 03](#) - Setting up Python and Python Crash Course.
 - [ ] [Section 04](#) - Time Series - Data Loading.
 - [ ] [Section 05](#) - Time Series - Feature Engineering.

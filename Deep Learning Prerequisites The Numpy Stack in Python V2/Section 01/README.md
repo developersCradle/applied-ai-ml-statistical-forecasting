@@ -56,8 +56,7 @@
 1. In this course you will be learning the **most basics blocs!**
 
 > [!TIP]
-> To learn **algorithms**, one should be **implemented** the **ML algorithm** oneself!
-
+> 💡 To learn **algorithms**, one should be **implemented** the **ML algorithm** oneself! 💡
 
 <div align="center">
     <img src="How_To_Practice_What_Have_You_Learned.JPG" alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!" width="700"/>

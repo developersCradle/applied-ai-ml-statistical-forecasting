@@ -1,10 +1,10 @@
-# Time Series - Basics.
+# Time Series - Basics. ✅
 
 Time Series - Basics.
 
 # What I Learned.
 
-# Time Series Forecasting - Use cases.
+# Time Series Forecasting - Use cases. ✅
 
 - Time Series is performed in where there is with the quantitive data! 
 
@@ -65,7 +65,7 @@ align="center">
 
 1. **Agriculture** forecast for weather!
 
-# Forecasting model creation - Steps.
+# Forecasting model creation - Steps. ✅
 
 <div 
 align="center">
@@ -88,7 +88,7 @@ align="center">
 
 - Forecast accuracy is improved over time!
 
-# Forecasting model creation - Steps 1 (Goal).
+# Forecasting model creation - Steps 1 (Goal). ✅
 
 - We should be clear about the goal!
 
@@ -169,6 +169,35 @@ align="center">
 4. `k`-step-ahead forecast from the time of `t`!
 5. $e_t$ Forecast error!
 
+<div 
+align="center">
+    <img 
+    src="Forecasting_Horizon.JPG" 
+    alt="Time Series Analysis and Forecasting using Python!" 
+    width="700"
+    />
+</div>
+
+1. If the `k` will be **3**, we will be forecasting for the **3 months**!
+2. $F_{t+1}$ for the short **1-month** it would be good for the handing the income flow!
+$F_{t+3}$ for the **3-month** managing the **income scheduling**!
+
+> [!NOTE]
+> These needs be answered when we are defined goals! 
+
+<div 
+align="center">
+    <img 
+    src="Forecasting.JPG" 
+    alt="Time Series Analysis and Forecasting using Python!" 
+    width="700"
+    />
+</div>
+
+1. Think of the **over-prediction** or **under-prediction**, which would be making huge loss for the business!
+What is the type of the forecast **binary forecast** / **numerical forecast**!
+
+2. We can **automate the forecasting**, for example inventory in the end of the month!
 
 # Quiz 02: Quiz.
 
@@ -179,14 +208,16 @@ id="Quiz_02_Question_01"
 open="true"> <b>Question 01.</b> </summary>
 
 <div align="center">
-    <img src="Quiz 01/Q01_Question.JPG" width="600"/>
+    <img src="Quiz 02/Q01_Question.JPG" width="600"/>
 </div>
 
 - My answer:
 
 <div align="center">
-    <img src="Quiz 01/Q01_Answer.JPG" width="600"/>
+    <img src="Quiz 02/Q01_Answer.JPG" width="600"/>
 </div>
+
+1. Big organizations forecast, like world bank!
 
 </details>
 <details>
@@ -196,16 +227,16 @@ id="Quiz_02_Question_02"
 open="true"> <b>Question 02.</b> </summary>
 
 <div align="center">
-    <img src="Quiz 01/Q02_Question.JPG" width="600"/>
+    <img src="Quiz 02/Q02_Question.JPG" width="600"/>
 </div>
 
 - My answer:
 
 <div align="center">
-    <img src="Quiz 01/Q02_Answer.JPG" width="600"/>
+    <img src="Quiz 02/Q02_Answer.JPG" width="600"/>
 </div>
 
-1. 
+1. First steps of the forecasting are to set the **goal**!
 
 </details>
 
@@ -216,15 +247,43 @@ id="Quiz_02_Question_03"
 open="true"> <b>Question 03.</b> </summary>
 
 <div align="center">
-    <img src="Quiz 01/Q03_Question.JPG" width="600"/>
+    <img src="Quiz 02/Q03_Question.JPG" width="600"/>
 </div>
 
 - My answer:
 
 <div align="center">
-    <img src="Quiz 01/Q03_Answer.JPG" width="600"/>
+    <img src="Quiz 02/Q03_Answer.JPG" width="600"/>
 </div>
 
-1.
+1. The **forecasting process** is iterative!
+
+</details>
+
+<details>
+
+<summary 
+id="Quiz_02_Question_04"
+open="true"> <b>Question 04.</b> </summary>
+
+<div align="center">
+    <img src="Quiz 02/Q04_Question.JPG" width="600"/>
+</div>
+
+- My answer:
+
+<div align="center">
+    <img src="Quiz 02/Q04_Answer.JPG" width="600"/>
+</div>
+
+1. Descriptive analysis helps to analyze the past!
+    There are different models:
+        - **black-box** models!
+        - **explainable** models!
+
+**Focus on underlying patterns and causes:** 
+Descriptive analysis specifically focuses on understanding the underlying patterns and causes of a phenomenon, rather than just predicting future outcomes.
+**Interpreting insights:**
+Explainable models are ideal for this because they help directly in understanding the patterns and relationships within the data, allowing you to easily interpret those insights.   
 
 </details>
