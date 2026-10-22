@@ -300,10 +300,10 @@ align="center">
 
 * **Section 01** - Introduction.
     * *Quiz*:
-        * [Quiz 01](#). ✅
+        * [Quiz 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2001#quiz-01-quiz-). ✅
 * **Section 02** - Time Series - Basics.
     * *Quiz*:
-        * [Quiz 02](#).
+        * [Quiz 02](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2002#quiz-02-quiz-). ✅
 * **Section 03** - Setting up Python and Python Crash Course.
     * *Quiz*:
         * [Quiz 03](#).
@@ -334,23 +334,23 @@ align="center">
 
 
 
-# Mathematical Foundations of Machine Learning.
-<!-- 
 <p 
 align="center">
     <img 
-    src="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png" 
-    alt="Time series analysis and forecasting using python caption!" 
-    id="Time_Series_Analysis_And_Forecasting_Using_Python_Caption.png?trk=public_profile_see-credential"
+    src="Mathematical_Foundations_Of_Machine_Learning_Caption.png" 
+    alt="Mathematical foundations of machine learning caption!" 
+    id="Mathematical_Foundations_Of_Machine_Learning_Caption?trk=public_profile_see-credential"
     style="width:1600px;height:130px;"
     />
-</p>  -->
+</p> 
 
-<p align="center">
+
+<p 
+align="center">
     <img  
     src="Mathematical_Foundations_Of_Machine_Learning_Description.JPG"
-    alt="#"
-    id="#"
+    alt="Mathematical foundations of machine learning description!"
+    id="Mathematical_Foundations_Of_Machine_Learning_Description?trk=public_profile_see-credential"
     style="width: 680px;"
     />
 </p>
