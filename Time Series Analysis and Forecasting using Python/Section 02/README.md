@@ -183,7 +183,7 @@ align="center">
 $F_{t+3}$ for the **3-month** managing the **income scheduling**!
 
 > [!NOTE]
-> These needs be answered when we are defined goals! 
+> 📖 Following question needs be answered when we are defined goals! 📖 
 
 <div 
 align="center">
@@ -199,7 +199,7 @@ What is the type of the forecast **binary forecast** / **numerical forecast**!
 
 2. We can **automate the forecasting**, for example inventory in the end of the month!
 
-# Quiz 02: Quiz.
+# Quiz 02: Quiz. ✅
 
 <details>
 
@@ -276,14 +276,12 @@ open="true"> <b>Question 04.</b> </summary>
     <img src="Quiz 02/Q04_Answer.JPG" width="600"/>
 </div>
 
-1. Descriptive analysis helps to analyze the past!
-    There are different models:
-        - **black-box** models!
-        - **explainable** models!
-
-**Focus on underlying patterns and causes:** 
-Descriptive analysis specifically focuses on understanding the underlying patterns and causes of a phenomenon, rather than just predicting future outcomes.
-**Interpreting insights:**
-Explainable models are ideal for this because they help directly in understanding the patterns and relationships within the data, allowing you to easily interpret those insights.   
+1. Descriptive analysis helps to analyze the past! There are different models:
+    - **black-box** models!
+    - **explainable** models!
+        - **Focus on underlying patterns and causes:** 
+        Descriptive analysis specifically focuses on understanding the underlying patterns and causes of a phenomenon, rather than just predicting future outcomes.
+        - **Interpreting insights:**
+        Explainable models are ideal for this because they help directly in understanding the patterns and relationships within the data, allowing you to easily interpret those insights.   
 
 </details>

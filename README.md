@@ -1,7 +1,8 @@
 <p align="center">
     <img 
     id="AI_And_ML_Statistics_Time_Series_Forecasting_Caption?trk=public_profile_see-credential" src="AI_And_ML_Statistics_Time_Series_Forecasting_Caption.png" 
-    style="width:1200px;height:200px;">
+    style="width:1200px;height:200px;"
+    />
 </p>
 
 <p align="center">
@@ -12,7 +13,8 @@
    <img
    id="Applied_Ai_Ml_Statistical_Forecasting_Graphics?trk=public_profile_see-credential"  
    src="Applied_Ai_Ml_Statistical_Forecasting_Graphics.png" 
-   alt="Applied ai ml statistical forecasting graphics!" width="500" height="320"/>
+   alt="Applied ai ml statistical forecasting graphics!" width="500" height="320"
+   />
 </p>
 
 - For these courses one should configure **GIT** for handle projects.
@@ -84,12 +86,14 @@ alt="Reactive course series!">
 
 <br>
 
-<p align="center">
+<p 
+align="center">
     <img 
     src="What_Is_Expected_You_To_Know.JPG"
     id="What_Is_Expected_You_To_Know?trk=public_profile_see-credential"
     alt="Deep Learning Prerequisites: The Numpy Stack in Python (V2+)!"
-    width="700"/>
+    width="700"
+    />
 </p>
 
 1. Add here the description and links!
@@ -103,19 +107,23 @@ alt="Reactive course series!">
 
 </details>
 
-<p align="center">
+<p 
+align="center">
     <img 
     src="The_Numpy_Stack_In_Python_V2_Caption.png" 
     alt="The numpy stack in python v2 caption!" 
     id="The_Numpy_Stack_In_Python_V2_Caption?trk=public_profile_see-credential"
-    style="width:1600px;height:130px;" />
+    style="width:1600px;height:130px;"
+    />
 </p> 
 
-<p align="center">
+<p 
+align="center">
     <img  src="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python_V2_Description.JPG" 
     alt="Deep learning prerequisites the numpy stack in python v2 description!" 
     id="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python_V2_Description?trk=public_profile_see-credential"
-    style="width: 680px;"/>
+    style="width: 680px;"
+    />
 </p>
 
 All course material from *Deep Learning Prerequisites: The Numpy Stack in Python (V2+)* from **Lazy Programmer Inc**.
@@ -149,9 +157,23 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 ?trk=public_profile_see-credential 
 -->
 
-<div align="center">
-    Insert certificate here when completed
-</div>
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="Dummy_Cert.png" 
+    alt="#" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Deep_Learning_Prerequisites_The_Numpy_Stack_In_Python (V2+)_Certificate?trk=public_profile_see-credential" 
+    src="" 
+    alt="Time series analysis and forecasting using python certificate!"
+    width="600"
+    />
+</p>
+
+
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
@@ -226,7 +248,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 id="Logo_Combination" 
 align="center">
     <img 
-    src="#" 
+    src="Dummy_Cert.png" 
     alt="#" 
     style="width:590px;height:440px;"
     />
@@ -244,7 +266,7 @@ align="center">
 #### Progress/Curriculum.
 
 - [x] [Section 01](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2001#section-01-introduction-) - Introduction. ✅
-- [ ] [Section 02](#) - Time Series - Basics. ✅
+- [ ] [Section 02](https://github.com/developersCradle/applied-ai-ml-statistical-forecasting/tree/main/Time%20Series%20Analysis%20and%20Forecasting%20using%20Python/Section%2002#time-series---basics-) - Time Series - Basics. ✅
 - [ ] [Section 03](#) - Setting up Python and Python Crash Course.
 - [ ] [Section 04](#) - Time Series - Data Loading.
 - [ ] [Section 05](#) - Time Series - Feature Engineering.
