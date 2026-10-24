@@ -334,6 +334,18 @@ align="center">
 
 
 
+
+<p 
+align="center">
+    <img  
+    src="Time_Series_Forecasting_In_ Python_Tutorial_For_Beginners_Description.jpg"
+    alt="Time series forecasting in python tutorial for beginners description!"
+    id="Time_Series_Forecasting_In_ Python_Tutorial_For_Beginners_Description?trk=public_profile_see-credential"
+    style="width: 680px;"
+    />
+</p>
+
+- add here https://www.youtube.com/watch?v=fxx_E0ojKrc
 <p 
 align="center">
     <img 
@@ -343,7 +355,6 @@ align="center">
     style="width:1600px;height:130px;"
     />
 </p> 
-
 
 <p 
 align="center">
